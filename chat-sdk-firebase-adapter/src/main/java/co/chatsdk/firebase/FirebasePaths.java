@@ -25,7 +25,7 @@ public class FirebasePaths{
     public static final String MetaPath = "meta";
     public static final String FollowersPath = "followers";
     public static final String FollowingPath = "follows";
-    public static final String Image = "imaeg";
+    public static final String Image = "image";
     public static final String Thumbnail = "thumbnail";
     public static final String UpdatedPath = "updated";
     public static final String LastMessagePath = "lastMessage";
